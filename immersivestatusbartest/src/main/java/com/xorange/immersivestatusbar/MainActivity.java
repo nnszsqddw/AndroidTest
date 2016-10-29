@@ -1,5 +1,6 @@
 package com.xorange.immersivestatusbar;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
@@ -35,6 +36,16 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onClick(View v) {
-
+        switch (v.getId()){
+            case R.id.button1:
+                startActivity(new Intent(MainActivity.this,FirstActivity.class));
+                break;
+            case R.id.button2:
+                startActivity(new Intent(MainActivity.this,SecondActivity.class));
+                break;
+            case R.id.button3:
+                startActivity(new Intent(MainActivity.this, ThirdActivity.class));
+                break;
+        }
     }
 }
