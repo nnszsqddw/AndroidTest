@@ -1,1 +1,1 @@
-include ':app', ':waveripviewtest', ':onclickwave', ':canvastest'
+include ':waveripviewtest', ':onclickwave', ':viewdraghelpertest', ':immersivestatusbartest'

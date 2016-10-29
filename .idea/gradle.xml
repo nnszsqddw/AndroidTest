@@ -8,9 +8,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/canvastest" />
+            <option value="$PROJECT_DIR$/immersivestatusbartest" />
             <option value="$PROJECT_DIR$/onclickwave" />
+            <option value="$PROJECT_DIR$/viewdraghelpertest" />
             <option value="$PROJECT_DIR$/waveripviewtest" />
           </set>
         </option>
