@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/immersivestatusbartest/immersivestatusbartest.iml" filepath="$PROJECT_DIR$/immersivestatusbartest/immersivestatusbartest.iml" />
       <module fileurl="file://$PROJECT_DIR$/onclickwave/onclickwave.iml" filepath="$PROJECT_DIR$/onclickwave/onclickwave.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewdraghelpertest/viewdraghelpertest.iml" filepath="$PROJECT_DIR$/viewdraghelpertest/viewdraghelpertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/waveanimation/waveanimation.iml" filepath="$PROJECT_DIR$/waveanimation/waveanimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/waveripviewtest/waveripviewtest.iml" filepath="$PROJECT_DIR$/waveripviewtest/waveripviewtest.iml" />
     </modules>
   </component>
