@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/assets" />
             <option value="$PROJECT_DIR$/immersivestatusbartest" />
             <option value="$PROJECT_DIR$/onclickwave" />
             <option value="$PROJECT_DIR$/viewdraghelpertest" />
