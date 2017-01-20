@@ -1,1 +1,1 @@
-include ':waveripviewtest', ':onclickwave', ':viewdraghelpertest', ':immersivestatusbartest', ':waveanimation', ':assets'
+include ':waveripviewtest', ':onclickwave', ':viewdraghelpertest', ':immersivestatusbartest', ':waveanimation', ':assets', ':fileselector', ':toolbaradd'

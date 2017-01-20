@@ -9,8 +9,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/assets" />
+            <option value="$PROJECT_DIR$/fileselector" />
             <option value="$PROJECT_DIR$/immersivestatusbartest" />
             <option value="$PROJECT_DIR$/onclickwave" />
+            <option value="$PROJECT_DIR$/toolbaradd" />
             <option value="$PROJECT_DIR$/viewdraghelpertest" />
             <option value="$PROJECT_DIR$/waveanimation" />
             <option value="$PROJECT_DIR$/waveripviewtest" />
