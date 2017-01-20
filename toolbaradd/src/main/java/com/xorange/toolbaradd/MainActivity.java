@@ -30,6 +30,8 @@ public class MainActivity extends AppCompatActivity {
             case R.id.add_switch_2:
                 Log.d("xorange", "添加开关二");
                 break;
+            default:
+                break;
         }
         return super.onOptionsItemSelected(item);
     }
