@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ListView</string>
+    <string name="input">输入多个号码点击加号</string>
 </resources>
