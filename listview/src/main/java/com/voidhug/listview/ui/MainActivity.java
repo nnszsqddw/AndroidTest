@@ -43,6 +43,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 ActivityUtil.go(this, Activity6.class);
                 finish();
                 break;
+            case R.id.btn_7:
+                ActivityUtil.go(this, Activity7.class);
+                finish();
+                break;
             default:
                 break;
         }

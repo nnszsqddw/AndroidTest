@@ -50,4 +50,12 @@
         android:layout_height="wrap_content"
         android:textAllCaps="false"
         android:text="ListView 动态更新 之 AddNumber"/>
+
+    <Button
+        android:id="@+id/btn_7"
+        android:onClick="onClick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:text="ListView 动态更新 之 SwitchControl"/>
 </LinearLayout>
